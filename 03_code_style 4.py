@@ -111,12 +111,12 @@ MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
 #   x y z - для координат
 
 # никогда не используйте в названиях переменных одиночные l, I, O  !
-l = 34
-I = 43
-if l > I:
+L = 34
+i = 43
+if L > i:
     print()
-O = 9
-if O > 0:
+oo = 9
+if oo > 0:
     print()
 
 # lowercase (слово в нижнем регистре)
