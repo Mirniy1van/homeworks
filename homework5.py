@@ -1,8 +1,8 @@
-my_list = ['apple', 'banana', 'meat', 'shugar']
+my_list = ['apple', 'banana', 'meat', 'shugar', 'milk', 'baguette']
 print('список продуктов: ', my_list)
 print('Первый элемент: ', my_list[0], "Последний элемент: ", my_list[-1])
 my_list.append('milk')
-print('С 3 до последнего: ',my_list[2:])
+print('С 3 до 5: ',my_list[2:5])
 print('Измененный список: ', my_list)
 
 my_dict = {'apple':"Яблоко", 'meat':"Мясо", 'milk':"Молоко"}
